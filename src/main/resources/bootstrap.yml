@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: yaboong
+  cloud:
+    config:
+      uri: http://localhost:8080
